@@ -1,0 +1,30 @@
+nav {
+  background-color: #333333;
+  width: 100%;
+}
+
+ul {
+  color: white;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+li {
+  padding: 25px 10px;
+  display: inline;
+  float: left;
+  font-size: 0.9em;
+  font-family: 'Helvetica';
+}
+
+.nav-links {
+  display: inline-flex;
+  width: 100%;
+}
+
+.logo {
+  width: 100px;
+  height: 40px;
+  padding: 10px 5px;
+}
